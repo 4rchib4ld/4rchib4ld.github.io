@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Who I am ?
+
+I'm a DFIR and Reverse Engineering interested guy, looking to improve myself
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm playing CTF on a team with my friend : https://ctftime.org/team/111807
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+This blog will mostly be about me publishing the write-ups of all the challenges I have done, and maybe more...
