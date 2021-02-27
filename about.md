@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Who I am ?
+### Who is this beautiful ephebe ?
 
-I'm a DFIR and Reverse Engineering interested guy, looking to improve myself
+I'm just a guy interested in anything that relates to Computer Science, and specially Blue Team related subjects like : Incident Response, Threat Intelligence and Malware Analysis.
 
-### More Information
+I'm playing CTF with friends here : https://ctftime.org/team/111807
 
-I'm playing CTF on a team with my friend : https://ctftime.org/team/111807
+This blog is about everything that comes to my mind. Hope you find at least one thing interesting. 
 
-This blog will mostly be about me publishing the write-ups of all the challenges I have done, and maybe more...
+Do not hesitate to hit me up on Twitter if you want to talk more about something ! 
