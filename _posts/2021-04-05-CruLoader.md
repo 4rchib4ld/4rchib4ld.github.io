@@ -84,7 +84,7 @@ This part is a little more complicated then the one before. It's relying heavily
 This one is a little bit more tricky. There is a function that take a CRC32 hash as a parameter. The hash is matching the wanted API call. 0x8436F795 is corresponding to `IsDebuggerPresent()` for example.
 
 But there is a lot of call to this functions... And a lot of APIs in kernel32.dll, ntdll.dll and wininet.dll... So if it's not fun to do, let's have a script doing it for us !
-I made a IDA script (available here) that resolve all API calls, the job is way easier now !
+I made a IDA script (available [here](https://github.com/4rchib4ld/CruLoader/blob/main/idaDeobfuscateApiCalls.py)) that resolve all API calls, the job is way easier now !
 
 ![]({{site.baseurl}}/assets/images/Pasted image 20210405095721.png)
 
