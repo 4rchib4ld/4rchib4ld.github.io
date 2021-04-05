@@ -1,8 +1,8 @@
 ---
-title: a CruLoader Analysis
+title: CruLoader Analysis
 toc: true
 toc_sticky : true
-excerpt: "How Homograph attacks are done using Unicode"
+excerpt: "Analysis of a custom malware loader"
 show_date: true
 categories:
     - MalwareAnalysis 
