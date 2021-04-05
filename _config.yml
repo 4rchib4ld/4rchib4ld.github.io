@@ -23,7 +23,11 @@ twitter_username: 4rchib4ld
 github_username: 4rchib4ld
 minimal_mistakes_skin: mint
 search: true
-google_analytics: UA-166042355-1
+analytics:
+  provider               : "google" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "UA-166042355-1" # Replace this with your ID, or delete
+    anonymize_ip         : true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
