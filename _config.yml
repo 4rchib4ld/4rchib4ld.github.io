@@ -23,7 +23,13 @@ twitter_username: 4rchib4ld
 github_username: 4rchib4ld
 minimal_mistakes_skin: mint
 search: true
-google_analytics: "UA-166042355-1"
+
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-166042355-1"
+    anonymize_ip: true # default
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -57,10 +63,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-mermaid
-
-mermaid:
-  src: '/js/mermaid.js'
-  src_config: '/js/mermaid_config.js'
 
 author:
   name   : "4rchib4ld"
