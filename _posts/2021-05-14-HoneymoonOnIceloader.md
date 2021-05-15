@@ -16,7 +16,7 @@ And what do we do when we are sad ? Yeah, we work on Malware stuff.
 
 ## Let's get technical
 
-I tried a couple of things, without much success. The packer uses A LOOOOOOT of `for`and `while` loop, making it almost impossible for an emulator like Qiling to run it. It also makes it harder to understand what is going on.
+I tried a couple of things, without much success. The packer uses A LOOOOOOT of `for`and `while` loop, making it almost impossible for an emulator like [Qiling](https://github.com/qilingframework/qiling) to run it. It also makes it harder to understand what is going on.
 I let that sink, until one day, [@c3rb3ru5d3d53c](https://twitter.com/c3rb3ru5d3d53c) showcased her new project :
 
 ![]({{site.baseurl}}/assets/images/2021-05-14-16-34-12.png)
@@ -69,7 +69,7 @@ I couldn't really find much more info on this, or maybe there is none available.
 
 ## Cleaning our hands, for real this time
 
-That's it, now we can really be clean, as I made three scripts in order to automate and make your life easier.\n
+That's it, now we can really be clean, as I made three scripts in order to automate and make your life easier. \n
 The first one is [a python script](https://github.com/4rchib4ld/iceloader-unpacker), as simple as that. It uses Unicorn for code emulation, and decrypt the IcedID config... If the unpacked executable is an IcedID sample, of course.
 
 The second is a [Karton Unpacker module](https://github.com/c3rb3ru5d3d53c/karton-unpacker), so you can use it in your Karton pipeline.
@@ -78,7 +78,7 @@ The last one is a [mwcfg module](https://github.com/c3rb3ru5d3d53c/mwcfg), you c
 
 ## Conclusion
 
-And here we are. From what I know, it's the only public work on Iceloader, so it's like when you find a dinosaur species, you can name it whatever you want. It's not really my idea, it came from [@c3rb3ru5d3d53c](https://twitter.com/c3rb3ru5d3d53c), but I like it. Otherwise I would have given it a Pokémon name (most likely [Regice](https://bulbapedia.bulbagarden.net/wiki/Regice_(Pok%C3%A9mon))).
+And here we are. From what I know, it's the only public work on Iceloader, so it's like when you find a dinosaur species : you can name it whatever you want. It's not really my idea, it came from [@c3rb3ru5d3d53c](https://twitter.com/c3rb3ru5d3d53c), but I like it. Otherwise I would have given it a Pokémon name (most likely [Regice](https://bulbapedia.bulbagarden.net/wiki/Regice_(Pok%C3%A9mon))).
 
 Hope you liked what you just read, and also my work !
 This was really fun to do, despite not making great advance every day, as I'm doing everything during my free time, so it's like 1-2hours a day :(. But overall a really cool challenge !
