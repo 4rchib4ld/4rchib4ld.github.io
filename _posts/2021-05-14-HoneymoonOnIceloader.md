@@ -69,7 +69,8 @@ I couldn't really find much more info on this, or maybe there is none available.
 
 ## Cleaning our hands, for real this time
 
-That's it, now we can really be clean, as I made three scripts in order to automate and make your life easier. \n
+That's it, now we can really be clean, as I made three scripts in order to automate and make your life easier :
+
 The first one is [a python script](https://github.com/4rchib4ld/iceloader-unpacker), as simple as that. It uses Unicorn for code emulation, and decrypt the IcedID config... If the unpacked executable is an IcedID sample, of course.
 
 The second is a [Karton Unpacker module](https://github.com/c3rb3ru5d3d53c/karton-unpacker), so you can use it in your Karton pipeline.
