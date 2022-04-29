@@ -41,7 +41,7 @@ However, the planted sample wasn't even configured and wasn't used in the operat
 
 The Middle East is a area of interest for both Iran and Russia. There is no surprise to see them actively operates there. However, what is unusual is the fact that Turla used two Iranian malwares for their operations. They got access to the source code of two malwares (Nautilus and Neuron) and used them as their own. What they didn't know it that neither of them was previously identified nor attributed to Iran. [They were only seen with Turla operation](https://www.ncsc.gov.uk/news/turla-group-exploits-iran-apt-to-expand-coverage-of-victims).
 
-But it goes deeper than this. In fact it seems that Turla was able to completly overtake the Iranian infrastructure and used it for their own operations.(https://www.ncsc.gov.uk/news/turla-group-exploits-iran-apt-to-expand-coverage-of-victims)
+But it goes deeper than this. In fact it seems that Turla was able to [completly overtake the Iranian infrastructure and used it for their own operations](https://www.ncsc.gov.uk/news/turla-group-exploits-iran-apt-to-expand-coverage-of-victims)
 It's the only occurence of an [APT completly taking over another one](https://www.computerweekly.com/news/252479984/turlas-use-of-iranian-infrastructure-probably-opportunistic)
 
 ## Conclusion
