@@ -12,10 +12,7 @@ tags:
 ---
 
 
-
-# Intro
-
-While doing some threat hunting, I pivoted to a range of domains. Everytime there was a .NET delivered by one of this domain, I already knew it was a RAT/Stealer type of malware. Because I love to ask dumb questions on the internet to understand the world better, [I asked why is that so](https://twitter.com/4rchib4ld/status/1593288968828817414). The rest of this blogpost will be around the question of the development of malware in .NET.
+While doing some threat hunting, I pivoted to a range of domains. Every time there was a .NET delivered by one of this domain, I already knew it was a RAT/Stealer type of malware. Because I love to ask dumb questions on the internet to understand the world better, [I asked why is that so](https://twitter.com/4rchib4ld/status/1593288968828817414). The rest of this blog post will be around the question of the development of malware in .NET.
 
 
 # First of all, what is .NET ?
