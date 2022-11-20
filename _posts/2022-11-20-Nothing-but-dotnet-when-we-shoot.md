@@ -58,8 +58,11 @@ If you did the FlareOn 9, for your greatest pleasure, you had to deal with two .
 
 As we saw, .NET malware can be hard to work with, because of the various mechanisms Threat Actors uses. But they do so because .NET by design is rather easy to analyze.
 Remember the schema I did just before? We can actually decompile the generated executable with awesome tools like DnSpy.
-- Just to be exact, when using .NET decompilers we see *decompiled code* based on the IL, so be aware of it
 
+💡 :Just to be exact, when using .NET decompilers we see *decompiled code* based on the IL, so be aware that Threat Actors might modify the IL directly.
+{: .notice--info}
+
+![]({{site.baseurl}}/assets/images/Csharp 2022-11-19 22.11.04.excalidraw.png)
 
 By default, .NET executable also contains a lot of metadata. My favorite one is the GUIDs. It's an awesome pivot to try, you might find APT related code well hidden on GitHub (just imagine...). You can read more about them [here](https://www.virusbulletin.com/virusbulletin/2015/06/using-net-guids-help-hunt-malware/#citation.3). VirusTotal also implement them, and you can pivot directly from there !
 
