@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 4rchib4ld  Victory Road
+title: Plausible Deniablility
 repository: 4rchib4ld/4rchib4ld.github.io
 email:
 description: >- # this means to ignore newlines until "baseurl:"
@@ -65,9 +65,9 @@ plugins:
   - jekyll-mermaid
 
 author:
-  name   : "4rchib4ld"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Forensic, reverse engineering, CTI... I get up and I do it ?"
+  name   : "Axel Zengers"
+  avatar : "/assets/images/avatar-round.svg"
+  bio    : "Cyber Threat Intelligence. Allegedly."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -75,7 +75,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/4rchib4ld"
-
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/axel-z-9a9a38117/"
 footer:
   links:
     - label: "Twitter"
@@ -84,6 +86,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/4rchib4ld"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/axel-z-9a9a38117/"
 
 defaults:
   # _posts
