@@ -65,7 +65,7 @@ plugins:
   - jekyll-mermaid
 
 author:
-  name   : "Axel Zengers"
+  name   : ""
   avatar : "/assets/images/avatar-round.svg"
   bio    : "Cyber Threat Intelligence. Allegedly."
   links:
