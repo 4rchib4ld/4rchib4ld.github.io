@@ -85,6 +85,7 @@ When you have a lot of data, what is interesting is to create clusters. This all
 Now let's cluster based on hosting. As I stated earlier, it is not because the HTML page is the same that it is always the same person—or group of persons—behind. To further our work, we will cluster every page based on hosting behaviors. At some point, it is possible that we regroup clusters together, based on other elements. To make the clustering easier, it is best to set the option "Details: Visible" on urlscan.io. I also collapsed results by Hostname.
 
 Clusters can be quickly identified with a simple search within the page.
+
 | ![]({{site.baseurl}}/assets/images/invite-only/image-20260420141303729.png) |
 |:--:| 
 | *A simple CTRL+F on urlscan.io is just what you need to make this clusters* |
