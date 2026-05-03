@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I get up and I do it ?
 twitter_username: 4rchib4ld
 github_username: 4rchib4ld
-minimal_mistakes_skin: mint
+minimal_mistakes_skin: default
 search: true
 
 analytics:
@@ -102,6 +102,7 @@ defaults:
       share: true
       related: true
       show_date: true
+      classes: wide
 
   # _pages
   - scope:

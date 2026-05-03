@@ -1,5 +1,5 @@
 ---
-title: "Pulling the Thread — Invite Only"
+title: "Pulling the Thread: Invite Only"
 toc: true
 toc_sticky: true
 excerpt: "How a suspicious filename led to 88 phishing domains, a shared hosting cluster, and an operator who probably should have used a different email address."
@@ -172,7 +172,6 @@ At this point, we’ve moved from a single suspicious filename to a reused phish
 
 ## What's next
 
-From a defensive perspective, simple artifacts like file paths (`/invite.php`) or shared assets can serve as reliable pivot points for detection and retro-hunting.
+From a defensive perspective, simple artifacts like file paths (`/invite.php`) or shared assets can serve as reliable pivot points for detection and retro-hunting. You can find all related IoCs [here](https://github.com/4rchib4ld/plausible-deniability-iocs/blob/main/invite-only.csv).
 
-There’s more to explore around the ‘Invite Only’ ClickFix sub-technique, which I’ll cover in a follow-up post—but that’s a thread worth pulling separately.
-
+There’s more to explore around the ‘Invite Only’ ClickFix sub-technique, which I’ll cover in a follow-up post, but that’s a thread worth pulling separately.

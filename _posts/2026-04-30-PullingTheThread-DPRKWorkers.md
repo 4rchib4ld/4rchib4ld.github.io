@@ -9,6 +9,7 @@ categories:
 tags:
   - analysis
   - DPRK
+classes: wide
 ---
 
 Team Cymru recently published a [solid analysis of fake IT worker infrastructure](https://www.team-cymru.com/post/dprk-fake-it-worker-cyber-threat-actors-infrastructure), pivoting from `luckyguys[.]site` using X.509 certificates and NetFlow data. If you haven't read it, start there.
