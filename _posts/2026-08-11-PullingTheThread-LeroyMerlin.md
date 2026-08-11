@@ -185,7 +185,6 @@ The table below contains the domains discussed in this post, along with several 
 
 
 # References
-
 [^1]: https://securelist.com/octlurk-silklurk-backdoors-central-asia/120840/
 
 [^2]: https://profitday.kz/pdf/security2025/15.pdf
